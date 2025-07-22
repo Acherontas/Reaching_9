@@ -1,0 +1,283 @@
+acherontas@raspberrypi:~/codeblock/going_for_9_arm64/bin/Debug $ ./going_for_9_arm64 788956216865395649
+just enter a number xDvoyeristic behaviours have fun 
+
+
+ ------> ******* Starting the process ********* <------- 
+internal loop 0x7fffc1ce4360 with 1 | da p is 0x7fffc1ce4358 *p 1 and p 0x5555cd706410
+internal loop 0x7fffc1ce4360 with 2 | da p is 0x7fffc1ce4358 *p 33 and p 0x5555cd706418
+two values mod 
+with 1 and 2
+Entering miop
+new value of 1  and 2 with sum of 3
+**** Inserting @ B from first 3
+at mod the loc value is 3
+play from mod 2
+play is 2
+internal loop 0x7fffc1ce4360 with 3 | da p is 0x7fffc1ce4358 *p 93827007275872 and p 0x5555cd706420
+play is 1
+internal loop 0x7fffc1ce4360 with 4 | da p is 0x7fffc1ce4358 *p 93827007276032 and p 0x5555cd706428
+two values mod 
+with 3 and 4
+Entering miop
+new value of 3  and 4 with sum of 7
+**** Inserting @ B from first 7
+at mod the loc value is 7
+play from mod 2
+play is 2
+internal loop 0x7fffc1ce4360 with 5 | da p is 0x7fffc1ce4358 *p 2 and p 0x5555cd706430
+play is 1
+internal loop 0x7fffc1ce4360 with 5 | da p is 0x7fffc1ce4358 *p 33 and p 0x5555cd706438
+two values mod 
+with 5 and 5
+Entering miop
+**** Inserting @ B from second 5 and  5
+at mod the loc value is 10
+play from mod 2
+play is 2
+internal loop 0x7fffc1ce4360 with 5 | da p is 0x7fffc1ce4358 *p 93827007276000 and p 0x5555cd706440
+play is 1
+internal loop 0x7fffc1ce4360 with 6 | da p is 0x7fffc1ce4358 *p 93827007275808 and p 0x5555cd706448
+two values mod 
+with 5 and 6
+Entering miop
+**** Inserting @ B from second 5 and  6
+at mod the loc value is 11
+play from mod 2
+play is 2
+internal loop 0x7fffc1ce4360 with 6 | da p is 0x7fffc1ce4358 *p 6 and p 0x5555cd706450
+play is 1
+internal loop 0x7fffc1ce4360 with 6 | da p is 0x7fffc1ce4358 *p 33 and p 0x5555cd706458
+two values mod 
+with 6 and 6
+Entering miop
+**** Inserting @ B from second 6 and  6
+at mod the loc value is 12
+play from mod 2
+play is 2
+internal loop 0x7fffc1ce4360 with 6 | da p is 0x7fffc1ce4358 *p 93827007275904 and p 0x5555cd706460
+play is 1
+internal loop 0x7fffc1ce4360 with 7 | da p is 0x7fffc1ce4358 *p 93827007275744 and p 0x5555cd706468
+two values mod 
+with 6 and 7
+Entering miop
+**** Inserting @ B from second 6 and  7
+at mod the loc value is 13
+play from mod 2
+play is 2
+internal loop 0x7fffc1ce4360 with 8 | da p is 0x7fffc1ce4358 *p 5 and p 0x5555cd706470
+play is 1
+internal loop 0x7fffc1ce4360 with 8 | da p is 0x7fffc1ce4358 *p 33 and p 0x5555cd706478
+two values mod 
+with 8 and 8
+Entering miop
+**** Inserting @ B from second 8 and  8
+at mod the loc value is 16
+play from mod 2
+play is 2
+internal loop 0x7fffc1ce4360 with 8 | da p is 0x7fffc1ce4358 *p 93827007275840 and p 0x5555cd706480
+play is 1
+internal loop 0x7fffc1ce4360 with 9 | da p is 0x7fffc1ce4358 *p 93827007275968 and p 0x5555cd706488
+two values mod 
+with 8 and 9
+Entering miop
+ ----> from miop inserting 9 from : two
+**** Inserting @ B from third 8 and  9
+at mod the loc value is 17
+play from mod 2
+play is 2
+internal loop 0x7fffc1ce4360 with 9 | da p is 0x7fffc1ce4358 *p 9 and p 0x5555cd706490
+play is 1
+internal loop 0x7fffc1ce4360 with 9 | da p is 0x7fffc1ce4358 *p 33 and p 0x5555cd706498
+two values mod 
+with 9 and 9
+Entering miop
+ ----> from miop inserting 9 from : one
+ ----> from miop inserting 9 from : two
+at mod the loc value is 18
+play from mod 2
+play is 2
+we are in the final record
+Ending Session with sb (incorrect only gives some temp info)  37555666678898999
+out of break
+
+trying to shrink? press 1 for yes  2 to exit
+1
+da while 1
+a is cleared
+a is sorted out
+shrinking 
+while sb  37555666678898999
+
+steps are 0
+printing values of a 
+*************************
+0  showing  value --> 3 
+1  showing  value --> 5 
+2  showing  value --> 5 
+3  showing  value --> 5 
+4  showing  value --> 6 
+5  showing  value --> 6 
+6  showing  value --> 6 
+7  showing  value --> 6 
+8  showing  value --> 7 
+9  showing  value --> 7 
+10  showing  value --> 8 
+11  showing  value --> 8 
+12  showing  value --> 8 
+13  showing  value --> 9 
+14  showing  value --> 9 
+15  showing  value --> 9 
+16  showing  value --> 9 
+*************************
+out of printing values
+b is cleared
+new steps are 17
+
+ ------> ******* Ending the process ********* <------- 
+
+sb is cleared
+From main 
+
+ ------> ******* Starting the process ********* <------- 
+internal loop 0x7fffc1ce4360 with 3 | da p is 0x7fffc1ce4358 *p 3 and p 0x5555cd706330
+internal loop 0x7fffc1ce4360 with 5 | da p is 0x7fffc1ce4358 *p 33 and p 0x5555cd706338
+two values mod 
+with 3 and 5
+Entering miop
+new value of 3  and 5 with sum of 8
+**** Inserting @ B from first 8
+at mod the loc value is 8
+play from mod 2
+play is 2
+internal loop 0x7fffc1ce4360 with 5 | da p is 0x7fffc1ce4358 *p 93827007275968 and p 0x5555cd706340
+play is 1
+internal loop 0x7fffc1ce4360 with 5 | da p is 0x7fffc1ce4358 *p 93827007275936 and p 0x5555cd706348
+two values mod 
+with 5 and 5
+Entering miop
+**** Inserting @ B from second 5 and  5
+at mod the loc value is 10
+play from mod 2
+play is 2
+internal loop 0x7fffc1ce4360 with 6 | da p is 0x7fffc1ce4358 *p 9 and p 0x5555cd706350
+play is 1
+internal loop 0x7fffc1ce4360 with 6 | da p is 0x7fffc1ce4358 *p 33 and p 0x5555cd706358
+two values mod 
+with 6 and 6
+Entering miop
+**** Inserting @ B from second 6 and  6
+at mod the loc value is 12
+play from mod 2
+play is 2
+internal loop 0x7fffc1ce4360 with 6 | da p is 0x7fffc1ce4358 *p 93827007275744 and p 0x5555cd706360
+play is 1
+internal loop 0x7fffc1ce4360 with 6 | da p is 0x7fffc1ce4358 *p 93827007275808 and p 0x5555cd706368
+two values mod 
+with 6 and 6
+Entering miop
+**** Inserting @ B from second 6 and  6
+at mod the loc value is 12
+play from mod 2
+play is 2
+internal loop 0x7fffc1ce4360 with 7 | da p is 0x7fffc1ce4358 *p 5 and p 0x5555cd706370
+play is 1
+internal loop 0x7fffc1ce4360 with 7 | da p is 0x7fffc1ce4358 *p 33 and p 0x5555cd706378
+two values mod 
+with 7 and 7
+Entering miop
+**** Inserting @ B from second 7 and  7
+at mod the loc value is 14
+play from mod 2
+play is 2
+internal loop 0x7fffc1ce4360 with 8 | da p is 0x7fffc1ce4358 *p 93827007276160 and p 0x5555cd706380
+play is 1
+internal loop 0x7fffc1ce4360 with 8 | da p is 0x7fffc1ce4358 *p 93827007276256 and p 0x5555cd706388
+two values mod 
+with 8 and 8
+Entering miop
+**** Inserting @ B from second 8 and  8
+at mod the loc value is 16
+play from mod 2
+play is 2
+internal loop 0x7fffc1ce4360 with 8 | da p is 0x7fffc1ce4358 *p 7 and p 0x5555cd706390
+play is 1
+internal loop 0x7fffc1ce4360 with 9 | da p is 0x7fffc1ce4358 *p 33 and p 0x5555cd706398
+two values mod 
+with 8 and 9
+Entering miop
+ ----> from miop inserting 9 from : two
+**** Inserting @ B from third 8 and  9
+at mod the loc value is 17
+play from mod 2
+play is 2
+internal loop 0x7fffc1ce4360 with 9 | da p is 0x7fffc1ce4358 *p 93827007275840 and p 0x5555cd7063a0
+play is 1
+internal loop 0x7fffc1ce4360 with 9 | da p is 0x7fffc1ce4358 *p 93827007276096 and p 0x5555cd7063a8
+two values mod 
+with 9 and 9
+Entering miop
+ ----> from miop inserting 9 from : one
+ ----> from miop inserting 9 from : two
+at mod the loc value is 18
+play from mod 2
+play is 2
+internal loop 0x7fffc1ce4360 with 9 | da p is 0x7fffc1ce4358 *p 9 and p 0x5555cd7063b0
+play is 1
+we are in the final record
+pushing last number
+**** Inserting @ B 9
+Ending Session with sb (incorrect only gives some temp info) 85566667788989999
+out of break
+
+trying to shrink? press 1 for yes  2 to exit
+1
+da while 1
+a is cleared
+a is sorted out
+shrinking 
+while sb 85566667788989999
+
+steps are 0
+printing values of a 
+*************************
+0  showing  value --> 5 
+1  showing  value --> 5 
+2  showing  value --> 6 
+3  showing  value --> 6 
+4  showing  value --> 6 
+5  showing  value --> 6 
+6  showing  value --> 7 
+7  showing  value --> 7 
+8  showing  value --> 8 
+9  showing  value --> 8 
+10  showing  value --> 8 
+11  showing  value --> 8 
+12  showing  value --> 9 
+13  showing  value --> 9 
+14  showing  value --> 9 
+15  showing  value --> 9 
+16  showing  value --> 9 
+*************************
+out of printing values
+b is cleared
+new steps are 17
+
+ ------> ******* Ending the process ********* <------- 
+
+****************** Start of Adding ****************** 
+value 8 sum of lk --> 8
+value 5 sum of lk --> 13
+value 5 sum of lk --> 18
+value 6 sum of lk --> 24
+value 6 sum of lk --> 30
+value 6 sum of lk --> 36
+value 6 sum of lk --> 42
+value 7 sum of lk --> 49
+value 7 sum of lk --> 56
+value 8 sum of lk --> 64
+value 8 sum of lk --> 72
+value 8 sum of lk --> 80
+****************** End of Adding ****************** 
+lk 80
+for number 788956216865395649 the result is 107
+for calculated number 55666677888899999 or 85566667788989999 the result is 8
